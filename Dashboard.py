@@ -56,7 +56,7 @@ st.markdown("""
         margin: 0.5rem 0;
     }
     .formula-box {
-        background-color: #f1f3f4;
+        background-color: black;
         padding: 1rem;
         border-radius: 5px;
         border-left: 4px solid #F18F01;
